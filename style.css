@@ -1,0 +1,30 @@
+.navbar-dark .navbar-nav .nav-link {
+    color: white !important;
+    font-weight: 400;
+}
+button:not(:disabled) {
+    cursor: pointer;
+    color: white !important;
+}
+
+.w-100 {
+    width: 100%!important;
+    height: 450px;
+}
+
+button:not(:disabled) {
+    cursor: pointer;
+    color: black !important;
+}
+
+button:not(:disabled) {
+    cursor: pointer;
+    background-color: white !important;
+} 
+
+ 
+
+  #top_nav{
+    background-color:  #f1c525 !important;
+}  
+  
